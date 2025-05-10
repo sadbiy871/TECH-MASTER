@@ -165,8 +165,6 @@ href="https://github.com/sadbiy871/TECH-MASTER/graphs/commit-activity"><img heig
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
+<a><img 
 
 <h1> ℕ𝕆 𝕃𝕆𝕍𝔼 💔 ℕ𝕆 𝕊𝕋ℝ𝔼𝕊𝕊 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> </h1>
