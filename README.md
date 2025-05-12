@@ -42,14 +42,18 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsadbiy871%2FTECH-MASTER) 
    
    
-  2..DEPLOY ON RENDER 
+   2..DEPLOY ON RENDER ⤵️
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/sadbiy871/TECH-MASTER.git)
+
 
 
 
  
 
-[![Deploy to Render]
-(https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/sadbiy871/TECH-MASTER.git)
+
+
+[![Deploy to Render]-MASTER.git)
 
 
    3..DEPLOY ON GITHUB ⤵️
