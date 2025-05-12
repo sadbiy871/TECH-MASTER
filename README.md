@@ -24,7 +24,7 @@
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://Tech-pair-code-xzcb.onrender.com/?">
+  <a href="[https://Tech-pair-code-xzcb.onrender.com](https://sarkar-MD-session-generator.koyeb.app/)/?">
     <img src="https://img.shields.io/badge/[%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB](https://sarkar-MD-session-generator.koyeb.app/)-ffcc00?style=for-the-badge"/>
   </a>
 </p>
