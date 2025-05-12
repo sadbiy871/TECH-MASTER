@@ -1,7 +1,7 @@
-r{
+{
   "name": "your TECH-MASTER",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ SK HACKER ",
-  "logo": "your image url",
+  "logo": "https://files.catbox.moe/ypqbhs.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@ r{
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "your image url"
+      "value": "https://files.catbox.moe/ypqbhs.jpgl"
     }, 
     
     "ALIVE_MSG": {
@@ -81,7 +81,7 @@ r{
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
-      "required": false,
+      "required": true,
       "value": "false"
     },
 
@@ -92,7 +92,7 @@ r{
     
     }, 
 
-    "BOT_NAME": {
+    "TECH_MASTER": {
       "description": "write hear your name.",
       "required": true,
       "value": "✦『TECH-MASTER』✦"
