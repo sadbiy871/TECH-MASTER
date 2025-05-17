@@ -84,6 +84,8 @@
 
 ## 👑 SK HACKER STATUS
 
+## 👑 SK HACKER STATUS
+
 ```diff
 + Project Status: Active
 ! Version: 5.0.0 Neon Edition
@@ -92,3 +94,4 @@
 
 <div align="center">
   <img src="https://github.com/sadbiy871/TECH-MASTER/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+</div>
