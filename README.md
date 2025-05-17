@@ -26,7 +26,7 @@ href = "#">
 > To deploy, generate your session ID from the link below:
 <p align="left">
   <a href="https://SK-pair-code-xzcb.onrender.com/?">
-    <img > **PAIRING LINK (01)**
+    <img > 
   <a href='https://sadbiy871.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
