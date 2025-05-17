@@ -4,7 +4,7 @@
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 SK HACKER 🌝💚
 <div class = "repo" align = "center">
  
-href = "#">
+
 <img src = "https://files.catbox.moe/ypqbhs.jpg"  width="300" height="200">
 </img>
  <p align="center">
@@ -82,14 +82,13 @@ href = "#">
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-### Thank You Dear
+## 👑 SK HACKER STATUS
 
-> DEVELOPER OF TECH-MASTER
-- [Lord SK HACKER ](https://github.com/techlord01)
-- Creater and Owner Of TECH-MASTER
+```diff
++ Project Status: Active
+! Version: 5.0.0 Neon Edition
+# License: APACHE
+```
 
-> TECH-MASTER Helper
-- [SK HACKER](https://github.com/sadbiy871)
-- For helping in bot plugin files.
----
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<div align="center">
+  <img src="https://github.com/sadbiy871/TECH-MASTER/blob/main/assets/endwave.gif?raw=true" width="100%"/>
