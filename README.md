@@ -28,9 +28,7 @@
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
   
-🔑 Get Session ID (WhatsApp Pair Code Login)
-
-> To deploy, generate your session ID from the link below:
+ **PAIRING LINK (01)**
 <p align="left">
   <a href="https://SK-pair-code-xzcb.onrender.com/?">
     <img > 
