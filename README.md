@@ -5,7 +5,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://files.catbox.moe/ypqbhs.jpg"  width="300" height="250">
+<img src = "(https://files.catbox.moe/ypqbhs.jpg)"  width="300" height="250">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=TECH-MASTER+MD+WHATSAPP+BOT+MD" alt="">
@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/sadbiy871/TECH-MASTER/fork"><img title="TECH-MASTER" src="https://img.shields.io/badge/FORK-TECH-MASTERh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/sadbiy871/TECH-MASTER/fork"><img title="TECH-MASTER" src="ps://img.shields.io/badge/FORK-TECH-MASTERh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -33,44 +33,12 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
 
+
+📡 DEPLOYMENT OPTIONS
    
-  1..DEPLOY ON HEROKU ⤵️
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsadbiy872%2FTECH-MASTER) 
-   
-   
-  2..DEPLOY ON RENDER ⤵️
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/sadbiy871/TECH-MASTER.git)
-
-
-   3..DEPLOY ON GITHUB ⤵️
-
-
-</details>
-
-
-
-```
-
-```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-### Thank You Dear
-
-> DEVELOPER OF TECH-MASTER
-- [Lord SK HACKER ](https://github.com/techlord01)
-- Creater and Owner Of TECH-MASTER
-
-> TECH-MASTER Helper
-- [SK HACKER](https://github.com/sadbiy871)
-- For helping in bot plugin files.
----
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-<div align="center">
+  <div align="center">
   <table>
     <tr>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/sadbiy871/TECH-MASTER" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
@@ -100,3 +68,24 @@
 <div align="center">
   <img src="https://github.com/sadbiy871/TECH-MASTER/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
+
+</details>
+
+
+
+```
+
+```
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+### Thank You Dear
+
+> DEVELOPER OF TECH-MASTER
+- [Lord SK HACKER ](https://github.com/techlord01)
+- Creater and Owner Of TECH-MASTER
+
+> TECH-MASTER Helper
+- [SK HACKER](https://github.com/sadbiy871)
+- For helping in bot plugin files.
+---
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
