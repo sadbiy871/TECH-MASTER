@@ -5,7 +5,7 @@
 <div class = "repo" align = "center">
  
 
-<img src = "https://files.catbox.moe/ypqbhs.jpg"  width="300" height="200">
+<img src = "https://files.catbox.moe/ypqbhs.jpg"  width="300" height="250">
 </img>
  <p align="center">
   <a href="#"><img 
