@@ -10,6 +10,35 @@
  <p align="center">
   <a href="#"><img 
    src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=TECH-MASTER+MD+WHATSAPP+BOT+MD" alt="">
+
+
+
+
+
+
+
+*Dont forget to fork & star repo*
+
+---
+
+<div align="center">
+  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/sadbiy871/TECH-MASTER/blob/main/assets/divider.gif?raw=true" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github.com/sadbiy871/TECH-MASTER/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+</div>
+
+
+
+
    
 ## 🛰️ Deployment Steps
 
