@@ -63,7 +63,7 @@
 <p align="left">
   <a href="https://SK-pair-code-xzcb.onrender.com/?">
     <img > 
-  <a href='https://sadbiy871.onrender.com/' target="_blank">
+  <a href='https://sadbiy871.onrender.com/' target="blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   </a>
@@ -98,7 +98,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/1368" target="_blank">
+      <a href=" https://whatsapp.com/channel/0029Vb5pqpiAO7RC8BlVO40H/332" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
       </a>
     </td>
