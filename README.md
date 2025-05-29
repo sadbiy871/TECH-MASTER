@@ -61,7 +61,7 @@
   
  **PAIRING LINK (01)**
 <p align="left">
-  <a href="https://SK-pair-code-xzcb.heroku.com/?">
+  <a href="https://skhaker-567a8265a23e.herokuapp.com/pair">
     <img > 
   <a href='https://sadbiy871.onrender.com/' target="blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
