@@ -63,7 +63,7 @@
 <p align="left">
   <a href="https://skhaker-567a8265a23e.herokuapp.com/pair">
     <img > 
-  <a href=https://sadbiy871-session-generator.onheroku.com/' target="blank">
+  <a href=[https://sadbiy871-SESSION-GENERATOR.onheroku.com/' target="blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   </a>
