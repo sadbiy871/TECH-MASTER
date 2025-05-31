@@ -1,5 +1,5 @@
 /*created by SK HACKER 🕵
-contact dev1 923192730918 ♻️
+contact dev1 923128112507 ♻️
 contact dev2 https://t.me/malvinking2 ♻️
 © just give credit will you ⚠
 */
@@ -94,7 +94,7 @@ ${menu.search}
 *╰──────────●●►*
 
 
-> *Powered by botname*
+> *Powered by SK HACKER*
 
 `;
 
