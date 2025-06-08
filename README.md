@@ -61,9 +61,9 @@
   
  **PAIRING LINK (01)**
 <p align="left">
-  <a href=" https://sadbiy871.onheroku/pair">
+  <a href="https://sadbiy871.onheroku/pair">
     <img > 
-  <a https://kutikabachaharamigand-0dad0fa9d306.herokuapp.com/ target="blank">
+  <a href=https://kutikabachaharamigand-0dad0fa9d306.herokuapp.com/' target="blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   </a>
@@ -122,3 +122,5 @@
 
 ## 👑 SK HACKER STATUS
 
+
+    
